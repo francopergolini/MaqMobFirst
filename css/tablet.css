@@ -1,0 +1,12 @@
+.planes__slider{
+    justify-content: center;
+    gap: 30px;
+}
+.beneficios__container{
+    height: 400px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: space-around;
+    padding-right: 47px;
+    padding-left: 47px;
+}
